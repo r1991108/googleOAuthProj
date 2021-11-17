@@ -7,7 +7,6 @@ a practice for google OAuth 2.0 login project
 
 ```bash
 |-- Thumbs.db
-|-- TypeError(req.logIn is not a function).txt
 |-- config
 |   `-- passport.js
 |-- flow chart.png
@@ -16,16 +15,6 @@ a practice for google OAuth 2.0 login project
 |-- models
 |   |-- post-model.js
 |   `-- user-model.js
-|-- p5
-|   `-- resources
-|       |-- index.ejs
-|       |-- login.ejs
-|       |-- partials
-|       |   `-- header.ejs
-|       |-- post.ejs
-|       |-- profile.ejs
-|       `-- signup.ejs
-|-- p5.zip
 |-- package-lock.json
 |-- package.json
 |-- public
@@ -44,8 +33,5 @@ a practice for google OAuth 2.0 login project
     |-- profile.ejs
     |-- signup.ejs
     `-- testForm.ejs
-
-9 directories, 29 files
-
 
 ```

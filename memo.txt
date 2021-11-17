@@ -1,0 +1,12 @@
+database userID and password
+ mongoDB20211114
+ 20211114
+
+npm install express nodemon mongoose ejs dotenv
+npm install passport passport-google-oauth20
+npm install cookie-session
+npm install bcrypt
+npm install express-session connect-flash
+npm install passport-local
+
+- MongoDB Atlas

@@ -1,0 +1,11 @@
+TypeError: req.logIn is not a function
+
+TypeError: req.logIn is not a function
+
+因為passport的版本更新問題，如果?在之後課程有遇到這個Error的話，?可以用以下兩種方式(二擇一即可)：
+
+1. npm i passport@0.3.2
+
+在terminal or command line prompt執行這段程式碼，降低passport的版本
+
+2. 照著影片繼續寫code，直到處理完serialize & deserialize，這個error就不會出現了。
